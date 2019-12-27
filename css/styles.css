@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 85px;
+    background-image: url("../img/edificios.jpg");
+}
+
+h2{
+    text-align: center;
+    color: #4085a0;
+    
+}
+h3{
+    text-align: center;
+    color: #6085a0;
+    text-decoration: underline;
+}
+
+body{
+    background: #9db3fc;
+
+}
+
+h4{
+    
+    color: #080808;
+    font-size: 25px;
+}
+
+H6{
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+iframe{
+    text-align: center;
+    width: 1400px;
+    height: 800px;
+
+}
